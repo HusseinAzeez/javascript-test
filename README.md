@@ -1,4 +1,4 @@
-# This is for testig purpose
+# This repo is for testing purpose
 
 1 - Clone this repo
 
